@@ -1,5 +1,6 @@
-import config from 'config';
+// import config from 'config';
+import esMain from 'es-main';
 
-if (import.meta.url.endsWith(process.argv[1])) {
+if (esMain(import.meta)) {
   console.log('hello');
 }
