@@ -1,0 +1,1 @@
+See https://github.com/node-config/node-config/wiki/Configuration-Files
